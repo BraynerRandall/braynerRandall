@@ -2,6 +2,10 @@
 
 - 🔭 Atualmente não trabalho ...
 - 🌱 No momento estou estudando Html,Css e Javascript
+- 🤔 Meus Hobbies... Me exercitar, ler, escrever e cozinhar.
+- 📚 Formação... Tecnico em logistica,e atualmente cursando Desenvolvimento web, fullstack.
+- 🧑‍ Minhas experiencias... 1 ano no setor adminstrativo do exercito, e 3 meses no setor logistico na DHL.
+- 💻 linguagem favorita... JAVASCRIPT​😍​
 - ##
 - <div align="center">
   <a href="https://github.com/braynerrandall">
