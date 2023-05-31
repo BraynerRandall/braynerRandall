@@ -4,7 +4,8 @@
 - 🌱 No momento estou estudando Html,Css e Javascript
 - 🤔 Meus Hobbies... Me exercitar, ler, escrever e cozinhar.
 - 📚 Formação... Tecnico em logistica,e atualmente cursando Desenvolvimento Web Fullstack.
-- 🧑‍ Minhas experiencias... 1 ano no setor adminstrativo do exercito, e 3 meses no setor logistico na DHL, e atualmente, eu sou Aprendiz Administrativo em Senai RJ.
+- 🧑‍ Minhas experiencias... 1 ano no setor adminstrativo do exercito, e 3 meses no setor logistico na DHL,  Aprendiz Administrativo em Senai RJ.
+Atualmente atuo como SDR.
 - 
 - 💻 linguagem favorita... JAVASCRIPT​😍​
 - ##
