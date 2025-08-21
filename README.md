@@ -1,11 +1,6 @@
 ### Eae Devs 👋 eu sou Randall Brayner, estudante de programação na Growdev
 
-- 🔭 Atualmente não trabalho ...
-- 🌱 No momento estou estudando Html,Css e Javascript
-- 🤔 Meus Hobbies... Me exercitar, ler, escrever e cozinhar.
-- 📚 Formação... Tecnico em logistica,e atualmente cursando Desenvolvimento Web Fullstack.
-- 🧑‍ Minhas experiencias... 1 ano no setor adminstrativo do exercito, e 3 meses no setor logistico na DHL,  Aprendiz Administrativo em Senai RJ.
-Atualmente atuo como SDR.
+- 
 - 
 - 💻 linguagem favorita... JAVASCRIPT​😍​
 - ##
